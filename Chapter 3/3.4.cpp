@@ -6,7 +6,7 @@
 выполнения программы должен выглядеть следующим образом:
     Enter the number of seconds: 31600000
     31600000 seconds =
-    365 days, 17 hours, 46 minutes, 40 seconds */
+    365 days, 17 hours, 46 minutes, 40 seconds  */
 #include <iostream>
 
 using namespace std;
