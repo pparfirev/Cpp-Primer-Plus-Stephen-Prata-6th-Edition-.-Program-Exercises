@@ -7,7 +7,7 @@
     Enter the world's population: 6898758899
     Enter the population of the US: 310783781
     The population of the US is 4.50492% of the world population.
-Можете поискать в Интернете более точные значения. */
+Можете поискать в Интернете более точные значения.  */
 #include <iostream>
 
 using namespace std;
